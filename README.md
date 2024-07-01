@@ -15,5 +15,5 @@ This project is about refactoring de codebase of an existing website. This websi
 * The URL of the deployed application:
 file:///Users/alanna/Firts_HTML_refactor/First_HTML_refactor/index.html
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project:
+* The URL of the GitHub repository:
 https://github.com/alannadf/First_HTML_refactor.git
