@@ -7,15 +7,13 @@ This project is about refactoring de codebase of an existing website. This websi
 
 ### Screenshot
 
-(./Assets/01-html-css-git-homework-demo.png)
 
-## Review
 
-You are required to submit the following for review:
+## Contact
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the deployed application:
+file:///Users/alanna/Firts_HTML_refactor/First_HTML_refactor/index.html
 
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+* The URL of the GitHub repository, with a unique name and a README that describes the project:
+https://github.com/alannadf/First_HTML_refactor.git
