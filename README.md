@@ -7,7 +7,7 @@ This project is about refactoring de codebase of an existing website. This websi
 
 ### Screenshot
 
-
+<img src="./assets/images/lead-generation.png"
 
 ## Contact
 
